@@ -45,7 +45,7 @@ Package integrasi UI (Scaffolding).
 
 ## API 
 
-this section for explain **API** Go Postgres
+this section for explain **API** 
 
 1. User
    - Login User
